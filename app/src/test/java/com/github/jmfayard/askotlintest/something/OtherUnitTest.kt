@@ -1,4 +1,4 @@
-package com.github.jmfayard.askotlintest
+package com.github.jmfayard.askotlintest.something
 
 import org.junit.Test
 
@@ -9,7 +9,7 @@ import org.junit.Assert.*
  *
  * See [testing documentation](http://d.android.com/tools/testing).
  */
-class ExampleUnitTest {
+class OtherUnitTest {
     @Test
     fun addition_isCorrect() {
         assertEquals(4, 2 + 2)
